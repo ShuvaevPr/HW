@@ -1,0 +1,3 @@
+D:/Proga/P2/cmake-build-debug/CMakeFiles/P2.dir
+D:/Proga/P2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Proga/P2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
