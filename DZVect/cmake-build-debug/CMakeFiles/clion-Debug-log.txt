@@ -1,0 +1,4 @@
+"C:\Users\MSH\CLion 2022.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/MSH/CLion 2022.3/bin/ninja/win/ninja.exe" -G Ninja -S D:\Proga\DZVect -B D:\Proga\DZVect\cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Proga/DZVect/cmake-build-debug

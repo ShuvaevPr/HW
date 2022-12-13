@@ -1,0 +1,3 @@
+D:/Proga/DZVect/cmake-build-debug/CMakeFiles/DZVect.dir
+D:/Proga/DZVect/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Proga/DZVect/cmake-build-debug/CMakeFiles/rebuild_cache.dir
